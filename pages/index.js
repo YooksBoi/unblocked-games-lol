@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by playing <a href="https://sites.google.com/view/theadvancedmethod/webgl/1v1-lol">games</a>
         </p>
       </main>
 
